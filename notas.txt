@@ -1,3 +1,11 @@
 ### NOTAS DE REFERÊNCIA ###
 
 
+python -vertion
+
+python -m venv venv
+
+python -m pip install pip setuptools wheel --upgrade
+
+ctrl + shift + p  -> selecionar interpreter do ambiente virtual venv
+
